@@ -1,5 +1,7 @@
 
 CONFIG += ordered
+CONFIG += console
+CONFIG += debug
 
 TEMPLATE = subdirs
 
